@@ -5,7 +5,7 @@
 > * os:centos4.0
 
 ##技术：
-> linux c
+> * linux c
 ##功能：
 > * 文件上传
 > * 文件下载
