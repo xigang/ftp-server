@@ -12,5 +12,4 @@
 > * 支持基本的shell命令
 
 
-[@xigang](https://www.baidu.com)
 
