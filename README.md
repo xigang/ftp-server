@@ -1,4 +1,4 @@
-# FTPserver
+# ftp-server
 ##简介：
 > `ftp-server是一个在Linux平台下的服务器程序，支持基本的上传下载，shell命令等基本功能的练习`
 
